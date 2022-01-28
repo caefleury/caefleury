@@ -6,7 +6,17 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caefleury&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
-<div>
-  <a  left=10 href="https://www.linkedin.com/in/caefleury/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+## Meus contatos :iphone: 
+<div align="center">
+  <div>
+    <a href="https://www.instagram.com/caefleury/">
+        <img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a href="caefleury15@gmail.com">
+        <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/caefleury/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+  </div>
 </div>
-
