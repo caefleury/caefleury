@@ -7,10 +7,6 @@
 ## Meus contatos :iphone: 
 <div align="center">
   <div>
-    <a href="https://www.instagram.com/caefleury/" target="_blank">
-        <img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:caefleury15@gmail.com" target="_blank">
         <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
