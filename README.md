@@ -7,7 +7,7 @@
 ## Meus contatos :iphone: 
 <div align="center">
   <div>
-    <a href="mailto:caefleury15@gmail.com" target="_blank">
+    <a href="mailto:caetano.korilo@gmail.com" target="_blank">
         <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
